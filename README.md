@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Secure Coding (Backend development)**
 
-- 👨‍💻 All of my projects are available at [mahaveer-portfolio.vercel.app](mahaveer-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [mahaveer-portfolio.vercel.app](https://mahaveer-portfolio.vercel.app)
 
 - 💬 Ask me about **Software Development**
 
