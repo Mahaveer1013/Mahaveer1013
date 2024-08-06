@@ -14,9 +14,13 @@
 
   <h2>💬 Ask Me About</h2>
   <p><strong>Software Development</strong></p>
+  <p><strong>Backend Development</strong></p>
+  <p><strong>Secure Coding</strong></p>
+  <p><strong>Problem Solving</strong></p>
 
   <h2>📫 Contact</h2>
   <p>Email: <strong><a href="mailto:mahaveer30032005@gmail.com" target="_blank" rel="noopener noreferrer">mahaveer30032005@gmail.com</a></strong></p>
+  <p>LinkedIn: <strong><a href="https://linkedin.com/in/mahaveer1013" target="_blank" rel="noopener noreferrer">Mahaveer1013</a></strong></p>
 </div>
 
 <h3 align="left">Connect with Me:</h3>
