@@ -48,7 +48,12 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-[![Mahaveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahaveer1013)](https://github.com/Mahaveer1013/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaveer1013&layout=compact)](https://github.com/Mahaveer1013/github-readme-stats)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/Mahaveer1013/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mahaveer1013" alt="Mahaveer's GitHub stats" />
+  </a>
+  <a href="https://github.com/Mahaveer1013/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaveer1013&layout=compact" alt="Top Langs" />
+  </a>
+</div>
 
