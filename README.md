@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mahaveer A</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="left">Hi 👋, I'm Mahaveer A</h1>
+<h3 align="left">A passionate full stack developer from India</h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Code speaks louder than words." />
 </p>
 
-<div align="center">
+<div align="left">
   <h2>🌱 Currently Learning</h2>
   <p><strong>Secure Coding (Backend Development)</strong></p>
 
@@ -19,8 +19,8 @@
   <p>Email: <strong><a href="mailto:mahaveer30032005@gmail.com" target="_blank" rel="noopener noreferrer">mahaveer30032005@gmail.com</a></strong></p>
 </div>
 
-<h3 align="center">Connect with Me:</h3>
-<p align="center">
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/mahaveer1013" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
