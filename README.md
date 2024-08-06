@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahaveer A</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<div align="center" style="background-color: #2d2d2d; color: white; padding: 20px; border-radius: 5px; margin: 20px 0; font-family: Arial, sans-serif;">
-  <p style="margin: 0; font-size: 18px; font-style: italic;">"Code speaks louder than words."</p>
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Code speaks louder than words." />
+</p>
 
 <div align="center">
   <p>
