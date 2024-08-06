@@ -48,7 +48,7 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-<div style="display: flex; justify-content: center; align-items: center;width:100%">
+<div style="display: flex; justify-content: center; align-items: center;" align="center">
   <a href="https://github.com/Mahaveer1013/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Mahaveer1013" alt="Mahaveer's GitHub stats" />
   </a>
