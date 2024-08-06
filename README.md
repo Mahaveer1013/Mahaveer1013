@@ -6,24 +6,26 @@
 </p>
 
 <div align="center">
-  <p>
-    🌱 I’m currently learning <strong>Secure Coding (Backend development)</strong>
-  </p>
-  <p>
-    👨‍💻 All of my projects are available at <a href="https://mahaveer-portfolio.vercel.app" target="_blank"><strong>mahaveer-portfolio.vercel.app</strong></a>
-  </p>
-  <p>
-    💬 Ask me about <strong>Software Development</strong>
-  </p>
-  <p>
-    📫 How to reach me <strong>mahaveer30032005@gmail.com</strong>
-  </p>
+  <h2>🌱 Currently Learning</h2>
+  <p><strong>Secure Coding (Backend Development)</strong></p>
+
+  <h2>👨‍💻 Portfolio</h2>
+  <p>Explore all my projects at <a href="https://mahaveer-portfolio.vercel.app" target="_blank" rel="noopener noreferrer"><strong>mahaveer-portfolio.vercel.app</strong></a></p>
+
+  <h2>💬 Ask Me About</h2>
+  <p><strong>Software Development</strong></p>
+
+  <h2>📫 Contact</h2>
+  <p>Email: <strong><a href="mailto:mahaveer30032005@gmail.com" target="_blank" rel="noopener noreferrer">mahaveer30032005@gmail.com</a></strong></p>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mahaveer1013" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahaveer1013" height="30" width="40" /></a>
+<h3 align="center">Connect with Me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/mahaveer1013" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages :</h3>
 <p align="left">
