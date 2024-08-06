@@ -13,10 +13,12 @@
   <p>Explore all my projects at <a href="https://mahaveer-portfolio.vercel.app" target="_blank" rel="noopener noreferrer"><strong>mahaveer-portfolio.vercel.app</strong></a></p>
 
   <h2>💬 Ask Me About</h2>
-  <p><strong>Software Development</strong></p>
-  <p><strong>Backend Development</strong></p>
-  <p><strong>Secure Coding</strong></p>
-  <p><strong>Problem Solving</strong></p>
+  <ul>
+  <li><strong>Software Development</strong></li>
+  <li><strong>Backend Development</strong></li>
+  <li><strong>Secure Coding</strong></li>
+  <li><strong>Problem Solving</strong></li>
+  </ul>
 
   <h2>📫 Contact</h2>
   <p>Email: <strong><a href="mailto:mahaveer30032005@gmail.com" target="_blank" rel="noopener noreferrer">mahaveer30032005@gmail.com</a></strong></p>
