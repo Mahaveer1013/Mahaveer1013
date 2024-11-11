@@ -10,7 +10,7 @@
   <p><strong>Secure Coding (Backend Development)</strong></p>
 
   <h2>👨‍💻 Portfolio</h2>
-  <p>Explore all my projects at <a href="https://mahaveer-portfolio.vercel.app" target="_blank" rel="noopener noreferrer"><strong>mahaveer-portfolio.vercel.app</strong></a></p>
+  <p>Explore all my projects at <a href="https://mahaveer1013.vercel.app" target="_blank" rel="noopener noreferrer"><strong>mahaveer1013.vercel.app</strong></a></p>
 
   <h2>💬 Ask Me About</h2>
   <ul>
