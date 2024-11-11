@@ -72,3 +72,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahaveer1013&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
+
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=Dastagir2k&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
