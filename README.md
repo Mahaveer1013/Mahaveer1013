@@ -6,7 +6,7 @@
 </p>
 
 <div align="left">
-  <h2>🌱 Main Domain</h2>
+  <h2>🌱 Specification</h2>
   <p><strong>Secure Coding (Backend Development)</strong></p>
 
   <h2>👨‍💻 Portfolio</h2>
